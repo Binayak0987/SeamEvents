@@ -1,0 +1,6 @@
+framework module Pods_SeamEvents {
+  umbrella header "Pods-SeamEvents-umbrella.h"
+
+  export *
+  module * { export * }
+}
